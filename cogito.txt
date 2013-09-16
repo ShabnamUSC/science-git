@@ -1,3 +1,4 @@
+Changes in the new branch test_exercise!
 Some changes for exercise part
 Hi second version!
 some words
